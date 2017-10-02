@@ -1,4 +1,4 @@
 packages
 .pub
-credentials.yaml
-credentials_dev.yaml
+bin/credentials.yaml
+bin/credentials_dev.yaml
